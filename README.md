@@ -1,10 +1,10 @@
 # Portfolio Website
-A portfolio website built with [11ty](https://www.11ty.dev/). Still under development.
+A portfolio website built with [11ty](https://www.11ty.dev/). 
 
 ## Features
-<!-- - Responsive two-column layout (sidebar + main content) -->
-<!-- - Tabbed interface for Resume and Blog sections -->
-- Container with bio and socials
+- Responsive two-column layout (sidebar + main content)
+- Sidebar container with bio and socials
+- Tabbed interface for About, Projects, Courses and Blog sections
 - Mobile-friendly design
 
 ## Getting Started
@@ -40,10 +40,10 @@ portfolio/
 │   ├── css/
 │   │   └── style.css         # Styles
 │   ├── images/
-│   │   ├── background.png    # Background image
+│   │   ├── background.jpg    # Background image
 │   │   └── profile.jpg       # Profile picture
 │   ├── index.njk             # Main page
-│   └── favicon.ico           # Site favicon
+│   └── favicon.ico           # Site favicon (add if you wish) 
 ├── .eleventy.js              # 11ty configuration
 ├── package.json
 └── README.md
